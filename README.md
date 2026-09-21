@@ -41,18 +41,9 @@ The sum is:
 make test
 ```
 
-The regression tests cover all seven recovered command-line programs.
+The regression tests cover all seven command-line programs.
 
 ## Repository Structure
 
-- `assignment/MISSING_HANDOUT.md`: background note explaining that the exact matching handout was not recovered
-- `src/`: my recovered Java implementations, maintained for current toolchains
+- `src/`: my Java implementations, maintained for current toolchains
 - `tests/run_cli_tests.py`: maintained command-line regression tests
-
-## Implementation notes
-
-The maintained version keeps the recovered class names and outputs, cleans up the Java implementation, adds a strict local build and test path.
-
-## License
-
-No repository-wide license is declared because the exact supplied exercise terms were not recovered.
