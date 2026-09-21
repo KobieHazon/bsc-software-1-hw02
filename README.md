@@ -45,7 +45,7 @@ The regression tests cover all seven recovered command-line programs.
 
 ## Repository Structure
 
-- `assignment/MISSING_HANDOUT.md`: provenance note explaining that the exact matching handout was not recovered
+- `assignment/MISSING_HANDOUT.md`: background note explaining that the exact matching handout was not recovered
 - `src/`: my recovered Java implementations, maintained for current toolchains
 - `tests/run_cli_tests.py`: maintained command-line regression tests
 
